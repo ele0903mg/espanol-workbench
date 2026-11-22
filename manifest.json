@@ -1,0 +1,26 @@
+{
+  "name": "Espanol Vivo 工作台 — 从真实场景开口说西班牙语",
+  "short_name": "西语工作台",
+  "description": "面向中文母语者的西班牙语场景化学习工作台：12 个真实场景、72+ 组对话，点击即听发音，含语法拆解、换词造句与听力测试。",
+  "lang": "zh-CN",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF8F5",
+  "theme_color": "#E07A5F",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
